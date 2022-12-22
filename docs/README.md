@@ -24,6 +24,7 @@ Una vez clonado el repositorio hay que hacer unas cuantas modificaciones en el m
 Tendras que modificar valores de la propiedad vendor por el nombre de la cuenta en la que estes trabajando. la propiedad name no es obligatoria modificarla para su uso pero puedes cambiarla por el nombre que quieras
 
 `"vendor": "name-vendor"`, `"name": "my-test-theme"`
+
 --------
 
 #### Paso 4 -Gestor de paquetes
